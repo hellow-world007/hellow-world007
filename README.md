@@ -24,4 +24,6 @@ Hi there!<br>Thanks a lot for being here.<br><br>I’m Joy Kumar Mondal – a we
 ---
 [![](https://visitcount.itsvg.in/api?id=hellow-world007&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
