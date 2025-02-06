@@ -1,3 +1,53 @@
+## Hey 👋, Welcome to My GitHub Profile!  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B%2C+Welcome+to+My+GitHub+Profile!;I+'+AM+JOY+KUMAR+MONDAL!;&center=true&width=600&height=50&font=Fira%20Code&color=36BCF7&vCenter=true&size=22"/>
+</p>
+
+### 🚀 About Me
+
+- 🎓 **ECE Graduate** | Khulna University
+- 🔬 **Research** | Rolling Bearing Fault Diagnosis in Time-Frequency Domain
+- 🤖 **Skills** | CNN, XGBoost, Random Forest, Time-Frequency Analysis (CWT, STFT)
+- 💻 **Languages** | Python, MATLAB, TensorFlow, Scikit-Learn
+- 🏆 **Passionate About** | Machine Learning, Deep Learning, Fault Diagnosis
+
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joykumar-mondal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joykumar-mondal&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=joykumar-mondal&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **Feel free to star my repositories and contribute!**
+
 # 💫 About Me:
 Hi there!<br>Thanks a lot for being here.<br><br>I’m Joy Kumar Mondal – a web developer passionate about full-stack web development. Also proficient in mern-stack web development. I have 3+ years of hands-on experience in creating frontend-based and full-stack mern projects.<br><br>As a dedicated web developer, I enjoy creating dynamic and innovative applications.<br>I am proficient in:<br>✅ Front-end development using React and Next.js<br>✅ Node.js and Express.js for backend development<br>✅ MongoDB and PostgreSQL to efficiently manage databases<br>✅ Actively work through LeetCode's coding challenges<br><br>What I'm looking for | I am looking for a junior developer position or internship where I can work on interesting projects and advance my web development knowledge and abilities.<br><br>Background | I started learning web development in 2022. At first, I completed frontend web development and then I moved to backend web development. All of my work is included in my portfolio: https://my-portfolio-joymondal007.vercel.app/<br><br>Strategy | Passionate about seamless user experience and innovative design, I bring a strategic approach to every project, such as: ensuring functionality, maintaining efficient and readable code, optimizing the code, and ensuring user satisfaction. Let’s create something new!
 
@@ -23,9 +73,5 @@ Hi there!<br>Thanks a lot for being here.<br><br>I’m Joy Kumar Mondal – a we
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hellow-world007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif" width="500">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I+love+coding!&center=true&width=500&height=50)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
