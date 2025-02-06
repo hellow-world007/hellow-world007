@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B%2C+Welcome+to+My+GitHub+Profile!;I'M+JOY+KUMAR+MONDAL!;&center=true&width=600&height=50&font=Fira%20Code&color=8b46ff&vCenter=true&size=32&weight=bold"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500"/>
 </p>
