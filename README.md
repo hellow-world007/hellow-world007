@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B%2C+Welcome+to+My+GitHub+Profile!;I'M+JOY+KUMAR+MONDAL!;&center=true&width=600&height=50&font=Fira%20Code&color=8b46ff&vCenter=true&size=32&weight=bold"/>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500"/>
-</p>
-
 # 💫 About Me:
 Thanks a lot for being here.<br>I’m Joy Kumar Mondal – a web developer passionate about full-stack web development. Also proficient in mern-stack web development. I have 3+ years of hands-on experience in creating frontend-based and full-stack mern projects.<br><br>As a dedicated web developer, I enjoy creating dynamic and innovative applications.<br>I am proficient in:<br>✅ Front-end development using React and Next.js<br>✅ Node.js and Express.js for backend development<br>✅ MongoDB and PostgreSQL to efficiently manage databases<br>✅ Actively work through LeetCode's coding challenges<br><br>What I'm looking for | I am looking for a junior developer position or internship where I can work on interesting projects and advance my web development knowledge and abilities.<br><br>Background | I started learning web development in 2022. At first, I completed frontend web development and then I moved to backend web development. <br><br>Strategy | Passionate about seamless user experience and innovative design, I bring a strategic approach to every project, such as: ensuring functionality, maintaining efficient and readable code, optimizing the code, and ensuring user satisfaction. Let’s create something new!
 
